@@ -6,55 +6,37 @@ import WhatsAppFloat from '../components/WhatsAppFloat';
 export default function NosotrosPage() {
   const achievements = [
     {
-      year: "2023",
-      title: "Campeones Nacionales Robótica",
-      description: "Primer lugar en Competencia Nacional de Robótica Educativa con proyecto innovador",
+      year: "2025",
+      title: "UNAM CANSAT 2025",
+      description: "Finalistas del eventos UNAM CANSAT 2025",
       icon: "🏆"
-    },
-    {
-      year: "2022", 
-      title: "Reconocimiento Ministerio de Educación",
-      description: "Destacados por implementación de programas STEAM en 15 municipios de Boyacá",
-      icon: "⭐"
-    },
-    {
-      year: "2021",
-      title: "Ganadores Concurso NASA Space Apps",
-      description: "Equipo ganador en categoría juvenil del hackathon internacional de NASA",
-      icon: "🚀"
-    },
-    {
-      year: "2020",
-      title: "Premio Innovación Educativa",
-      description: "Reconocidos por desarrollar la mayor campaña de alfabetización digital en Boyacá",
-      icon: "💡"
     }
   ];
 
   const team = [
     {
-      name: "María González",
-      role: "Directora de Innovación Educativa",
-      expertise: "15 años en educación STEAM, Ganadora 3 concursos internacionales",
-      achievement: "Líder proyecto 'Boyacá Digital' que impactó a 5,000 estudiantes"
+      name: "Jorge Espindola",
+      role: "Ingeniero de sistemas",
+      expertise: "Con 19 años de experiencia en el desarrollo de estaciones terrenas para rastreo y control de satélites",
+      achievement: "Líder proyecto de la participacion en UNAM CANSAT 2025"
     },
     {
-      name: "Carlos Rodríguez", 
-      role: "Especialista en Robótica",
-      expertise: "Ingeniero Mecatrónico, Campeón Nacional Robótica 2023",
-      achievement: "Desarrolló metodología propia de enseñanza robótica para niños"
+      name: "Diana Sanabria", 
+      role: "Ingeniera Industrial",
+      expertise: "Estudiante de maestria de metalurgia y ciencia de materiales",
+      achievement: "Finalista del evento UNAM CANSAT 2025"
     },
     {
-      name: "Ana Martínez",
-      role: "Coordinadora de Proyectos",
-      expertise: "Magister en Educación, 10 años gestionando campañas educativas",
-      achievement: "Coordinó implementación STEAM en 30 instituciones boyacenses"
+      name: "Nini Diaz",
+      role: "Ingeniera de sistemas",
+      expertise: "Magister en Software y sistemas informaticos",
+      achievement: "Especialista de arquitectura de computadores"
     },
     {
-      name: "David López",
-      role: "Especialista en Programación",
-      expertise: "Desarrollador Full Stack, Instructor certificado en IA educativa", 
-      achievement: "Creó plataforma de aprendizaje virtual para municipios rurales"
+      name: "Ana Maria Sanchez",
+      role: "Ingenieria electronica",
+      expertise: "Experta en diseño de cohetes y transmision de datos", 
+      achievement: "Ganadora del LASC (latin american space challenge) 2019"
     }
   ];
 
@@ -65,27 +47,6 @@ export default function NosotrosPage() {
       duration: "2022-2023", 
       impact: "Introdujo programación en 45 colegios públicos del departamento",
       highlight: "30% de participantes ingresaron a carreras tecnológicas"
-    },
-    {
-      name: "Robótica para la Paz",
-      reach: "1,800 niños y jóvenes",
-      duration: "2021-2022",
-      impact: "Talleres de robótica en zonas post-conflicto de Boyacá",
-      highlight: "Ganadores concurso nacional con proyectos de robótica social"
-    },
-    {
-      name: "STEAM Rural",
-      reach: "3,200 estudiantes",
-      duration: "2020-2021", 
-      impact: "Implementación de laboratorios STEAM en municipios rurales",
-      highlight: "Primera feria científica intercolegial rural de Boyacá"
-    },
-    {
-      name: "Cohetería Educativa",
-      reach: "1,500 participantes",
-      duration: "2023",
-      impact: "Talleres de cohetería y ciencias espaciales para jóvenes",
-      highlight: "Equipo boyacense clasificó a competencia internacional NASA"
     }
   ];
 
