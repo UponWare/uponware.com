@@ -312,15 +312,7 @@ export default function Contacto() {
               </div>
 
               {/* Mapa o información adicional */}
-              <div className="bg-gray-50 rounded-xl p-6">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">¿Por qué elegirnos?</h3>
-                <ul className="space-y-2 text-gray-600">
-                  <li>✅ Respuesta en menos de 24 horas</li>
-                  <li>✅ Consultoría inicial gratuita</li>
-                  <li>✅ Soluciones personalizadas</li>
-                  <li>✅ Soporte técnico especializado</li>
-                </ul>
-              </div>
+            
             </div>
           </div>
         </div>
