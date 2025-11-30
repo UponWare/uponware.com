@@ -33,7 +33,7 @@ export default function Footer() {
               <p>📍 CR 27 No. 46 85 Of. 201</p>
               <p>📞 +57 300 5600943</p>
             </div>
-            <button className="w-full bg-blue-600 text-white py-2 rounded-lg mt-4 hover:bg-blue-700 transition duration-200 text-sm font-medium">
+            <button className="w-full bg-[#15297c] text-white py-2 rounded-lg mt-4 hover:bg-blue-700 transition duration-200 text-sm font-medium">
               Solicitar Cotización
             </button>
           </div>

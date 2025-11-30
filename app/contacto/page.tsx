@@ -269,7 +269,7 @@ export default function Contacto() {
                     </div>
                     <div>
                       <h3 className="text-lg font-semibold text-gray-900">Dirección</h3>
-                      <p className="text-gray-600">CR 27 No. 46 85 Of. 201<br />Duitama, Colombia</p>
+                      <p className="text-gray-600">CR 27 No. 46 85 Of. 201<br />Colombia</p>
                     </div>
                   </div>
 

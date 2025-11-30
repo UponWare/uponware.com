@@ -21,7 +21,7 @@ export default function Hero() {
         <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
           Soluciones tecnológicas que combinan educación STEM, desarrollo espacial y transformación digital
         </p>
-        <a href="/servicios" className="bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-200">
+        <a href="/servicios" className="bg-[#15297c] text-[#15297c] text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-200">
           Descubre nuestros servicios
         </a>
       </div>

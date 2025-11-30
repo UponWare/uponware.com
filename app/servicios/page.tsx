@@ -336,7 +336,7 @@ export default function ServiciosPage() {
 
         {/* CTA Section */}
         <section className="container mx-auto px-4 pb-20">
-          <div className="bg-blue-600 rounded-2xl p-8 md:p-12 text-center text-white">
+          <div className="bg-[#15297c] rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
               ¿No encuentras lo que buscas?
             </h2>
@@ -346,7 +346,7 @@ export default function ServiciosPage() {
             <div className="flex flex-wrap justify-center gap-4">
               <Link 
                 href="/contacto"
-                className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg font-semibold text-lg transition duration-200"
+                className="bg-white text-black hover:bg-gray-100 px-8 py-4 rounded-lg font-semibold text-lg transition duration-200"
               >
                 Hablar con un Experto
               </Link>
@@ -354,7 +354,7 @@ export default function ServiciosPage() {
                 href="https://wa.me/+573005600943" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="border border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 rounded-lg font-semibold text-lg transition duration-200"
+                className="border border-white text-white hover:bg-white hover:text-black px-8 py-4 rounded-lg font-semibold text-lg transition duration-200"
               >
                 WhatsApp
               </a>
