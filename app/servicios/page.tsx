@@ -276,7 +276,7 @@ export default function ServiciosPage() {
               <div className="flex flex-wrap justify-center gap-4">
                 <Link 
                   href="/contacto"
-                  className="bg-blue-600 text-white hover:bg-blue-500 px-6 py-3 rounded-lg font-medium transition duration-200"
+                  className="bg-[#15297c] text-white hover:bg-white hover:text-black px-4 py-2 rounded-md text-sm font-medium transition duration-200"
                 >
                   Solicitar Presupuesto
                 </Link>
@@ -325,7 +325,7 @@ export default function ServiciosPage() {
                 
                 <Link 
                   href="/contacto"
-                  className="block w-full bg-blue-600 text-white text-center hover:bg-blue-500 px-4 py-3 rounded-lg font-medium transition duration-200"
+                  className="bg-[#15297c] text-white hover:bg-white hover:text-black px-4 py-2 rounded-md text-sm font-medium transition duration-200"
                 >
                   Más Información
                 </Link>

@@ -311,7 +311,6 @@ export default function Contacto() {
                 </div>
               </div>
 
-              {/* Mapa o información adicional */}
             
             </div>
           </div>
