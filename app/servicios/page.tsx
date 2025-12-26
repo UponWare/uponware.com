@@ -41,7 +41,7 @@ export default function ServiciosPage() {
       "Kits LEGO WeDo 2.0 / Bee-Bots"
     ],
     objective: "Introducir conceptos básicos de construcción y movimiento",
-    price: "Desde $450",
+    price: "Personalizado",
     icon: "🤖",
     audience: ["Estudiantes 6-8 años"]
   },
@@ -57,7 +57,7 @@ export default function ServiciosPage() {
       "Kits LEGO SPIKE / VEX IQ"
     ],
     objective: "Aprender sobre mecanismos, sensores y programación condicional",
-    price: "Desde $550",
+    price: "Personalizado",
     icon: "🔧",
     audience: ["Estudiantes 9-11 años"]
   },
@@ -73,7 +73,7 @@ export default function ServiciosPage() {
       "Plataforma Arduino / Raspberry Pi Pico"
     ],
     objective: "Entender electrónica básica y programación en texto para sistemas autónomos",
-    price: "Desde $650", 
+    price: "Personalizado", 
     icon: "💡",
     audience: ["Estudiantes 12-14 años"]
   },
@@ -89,7 +89,7 @@ export default function ServiciosPage() {
       "Raspberry Pi, OpenCV, TensorFlow Lite"
     ],
     objective: "Aplicar IA y machine learning para robots autónomos",
-    price: "Desde $750",
+    price: "Personalizado",
     icon: "👁️",
     audience: ["Estudiantes 15-18 años"]
   },
@@ -112,7 +112,7 @@ export default function ServiciosPage() {
       "Personalización del Aprendizaje",
       "Ética, Ciudadanía Digital y Pensamiento Crítico"
     ],
-    price: "Desde $600",
+    price: "Personalizado",
     icon: "🧠",
     audience: ["Docentes"]
   },
@@ -133,7 +133,7 @@ export default function ServiciosPage() {
       "Liderazgo y Gestión del Cambio", 
       "Políticas Institucionales y Gobernanza"
     ],
-    price: "Consultar",
+    price: "Personalizado",
     icon: "🏫",
     audience: ["Directivos"]
   },
@@ -149,7 +149,7 @@ export default function ServiciosPage() {
       "Experiencias interactivas",
       "Proyectos multidisciplinarios"
     ],
-    price: "Desde $550",
+    price: "Personalizado",
     icon: "🥽", 
     audience: ["Estudiantes", "Docentes"]
   },
@@ -163,7 +163,7 @@ export default function ServiciosPage() {
       "Animaciones 3D interactivas", 
       "Proyectos educativos con AR"
     ],
-    price: "Desde $500",
+    price: "Personalizado",
     icon: "📱",
     audience: ["Estudiantes", "Docentes"]
   },
@@ -179,7 +179,7 @@ export default function ServiciosPage() {
       "Desarrollo de videojuegos simples", 
       "Proyectos creativos y prácticos"
     ],
-    price: "Desde $400",
+    price: "Personalizado",
     icon: "👨‍💻",
     audience: ["Estudiantes 7-12 años"]
   },
@@ -193,7 +193,7 @@ export default function ServiciosPage() {
       "Apps móviles con React Native",
       "Introducción a bases de datos"
     ],
-    price: "Desde $600",
+    price: "Personalizado",
     icon: "💻",
     audience: ["Estudiantes 13-18 años"]
   },
@@ -209,7 +209,7 @@ export default function ServiciosPage() {
       "Construcción de cohetes modelo", 
       "Principios de física y aerodinámica"
     ],
-    price: "Desde $500",
+    price: "Personalizado",
     icon: "🚀",
     audience: ["Estudiantes 8-15 años"]
   },
@@ -223,7 +223,7 @@ export default function ServiciosPage() {
       "Proyectos de simulación",
       "Visitas a estaciones especiales"
     ],
-    price: "Desde $450",
+    price: "Personalizado",
     icon: "🛰️",
     audience: ["Estudiantes", "Docentes"]
   },
@@ -239,7 +239,7 @@ export default function ServiciosPage() {
       "Simulacros de competencias",
       "Acompañamiento de expertos"
     ],
-    price: "Consultar",
+    price: "Personalizado",
     icon: "🏆",
     audience: ["Estudiantes", "Docentes"]
   },
@@ -253,7 +253,7 @@ export default function ServiciosPage() {
       "Certificación internacional",
       "Oportunidades de networking global"
     ],
-    price: "Consultar", 
+    price: "Personalizado", 
     icon: "📜",
     audience: ["Estudiantes", "Docentes", "Directivos"]
   }
